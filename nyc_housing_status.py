@@ -9,8 +9,9 @@ from area import area
 
 # read the neighborhood population data into a DataFrame and load the GeoJSON data
 nycmap = json.load(open("nyc_zip.geojson"))
-#df = pd.read_csv('2019_2020_FINAL.csv')
-df = pd.read_csv('house_claim_counts_by_zip.csv')
+
+filenames = ['2019_2020.csv', '2021_pre_final.csv', '2021_post_final.csv', '2022_FHEPS_final.csv', '2022_sec8_final.csv']
+df = pd.read_csv(f'data/{filenames[0]}')
 
 d = {}
 neighborhood = nycmap["features"]
@@ -30,7 +31,7 @@ fig = px.choropleth_mapbox(df,
                         geojson=nycmap,
                         locations="zip",
                         featureidkey="properties.ZIPCODE",
-                        color="Claim",
+                        color="No Claim",
                         color_continuous_scale="YlGnBu", #"viridis",
                         mapbox_style="carto-positron",
                         zoom=9, center={"lat": 40.7, "lon": -73.9},
