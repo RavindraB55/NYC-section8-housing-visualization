@@ -53,4 +53,3 @@ fig = px.choropleth_mapbox(df,
 
 fig.show()
 
-    # black ice, pink dragonfruit
