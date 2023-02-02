@@ -1,0 +1,480 @@
+address,zip,lat_long,neighborhood,status
+28-15 42nd street #d1 in astoria,11103,40.7642468:-73.9121229,Northwest Queens,Claim
+3225 grand concourse #f52,10468,40.877628:-73.8854181,Bronx Park and Fordham,Claim
+3300 bailey ave #a7,10463,40.879467:-73.9008039,Kingsbridge and Riverdale,No Claim
+3135 godwin terr #1f,10463,40.8803467:-73.9050183,Kingsbridge and Riverdale,No Claim
+1507 saint johns place #a1,11213,40.670623:-73.9278439,Central Brooklyn,Claim
+83-46 118th street,11415,None,Southwest Queens,No Claim
+333 cypress ave #6b,10454,40.8082297:-73.9134779,Hunts Point and Mott Haven,Claim
+159 east 92nd street #1,10128,40.783175:-73.951889,Upper East Side,Claim
+263 west 113rd street #2 in  south harlem,10026,40.80226589999999:-73.9557171,Central Harlem,Claim
+415 stratford road #5n in ditmas park,11218,40.6385006:-73.96743769999999,Borough Park,Claim
+960 willoughby avenue #g6 in bushwick,11221,40.69776419999999:-73.9303333,Bushwick and Williamsburg,Claim
+1380 first avenue #3h in lenox hill,10021,40.7687708:-73.9549081,Upper East Side,Claim
+352 east 76th street #2rw in lenox hill,10021,40.7706623:-73.9552061,Upper East Side,Claim
+165 hester street #5r in little italy,10013,40.7178162:-73.9965314,Greenwich Village and Soho,Claim
+13 palmetto street #1 in bushwick,11221,40.6895623:-73.9210906,Bushwick and Williamsburg,No Claim
+449 east 84th street #1b in yorkville,10028,40.7749773:-73.9484502,Upper East Side,No Claim
+25-56 38th street #1f in astoria,11103,40.76706739999999:-73.9137764,Northwest Queens,No Claim
+263 west 123rd street #1a in south harlem,10027,40.8088443:-73.951481,Central Harlem,No Claim
+232 east 77th street #2 in  lenox hill,10075,40.7723416:-73.95731339999999,Upper East Side,No Claim
+939 68th street #d3 in  dyker heights,11219,40.6290541:-74.0109909,Borough Park,No Claim
+31-12 34th street #1a  in astoria,11106,40.7629128:-73.92150389999999,Northwest Queens,No Claim
+220 east 18th street #35 in prospect park south,11226,40.6458648:-73.96266229999999,Flatbush,No Claim
+31-14 34th street #14 in astoria,11106,40.7628774:-73.9216278,Northwest Queens,Claim
+30-60 48th street #2a in astoria,11103,40.7643574:-73.92346189999999,Northwest Queens,No Claim
+1796 third avenue #3d in east harlem,10029,40.7876587:-73.9479186,East Harlem,No Claim
+128 east 86th street #4b in upper east side,10028,40.7794112:-73.9560271,Upper East Side,Claim
+69 west 71st street #3c in  lincoln square,10023,40.7766459:-73.97879019999999,Upper West Side,No Claim
+109 luquer street #b3 in  carroll gardens,11231,40.6779801:-74.0008853,Northwest Brooklyn,Claim
+249 east 37th street #13w in east flatbush,11203,40.6508922:-73.9425492,Flatbush,No Claim
+24-46 44th street #a9 in astoria,11103,40.7671939:-73.9081729,Northwest Queens,No Claim
+425 east 65th street #23 in lenox hilll,10065,40.76308160000001:-73.95782419999999,Upper East Side,No Claim
+298 convent avenue #4a in hamilton heights,10031,40.8227439:-73.9479066,Inwood and Washington Heights,No Claim
+136 west 111st street #1fe in south harlem,10026,40.7993775:-73.953777,Central Harlem,No Claim
+2095 madison avenue #1c in central harlem,10037,40.8099339:-73.9371991,Central Harlem,No Claim
+1239 pacific street #1f in crown heights,11216,40.677981:-73.951275,Central Brooklyn,Claim
+75 thayer street #6g in  fort george,10040,40.8639588:-73.9270726,Inwood and Washington Heights,No Claim
+6813 21st avenue #3d in bensohurst,11204,40.6129232:-73.98562,Borough Park,No Claim
+31-23 47th street #3d in astoria,11103,40.7579674:-73.9117787,Northwest Queens,No Claim
+ 293 central park west #4f in upper west side,10024,40.7875953:-73.96801169999999,Upper West Side,No Claim
+333 ovington avenue #b58 in bay ridge,11209,40.6347225:-74.02529129999999,Southwest Brooklyn,No Claim
+272 division avenue #1dd in williamsburg,11211,40.7068653:-73.9552554,Greenpoint,No Claim
+2978 east 196th street #2a in pelham bay,10461,40.8542812:-73.8285277,Southeast Bronx,No Claim
+104-20 queens boulevard #2n in forest hills,11375,40.7240354:-73.85008719999999,West Central Queens,No Claim
+409 east 87th street #2d in yorkville,10128,40.7773938:-73.9480828,Upper East Side,No Claim
+1976 madison avenue #3a in central harlem,10035,40.806626:-73.9402301,East Harlem,No Claim
+445 west 48th street #4a in hell's kitchen,10036,40.7632851:-73.9918483,Chelsea and Clinton,No Claim
+32 cornelia street #11 in west village,10014,40.73113:-74.0024921,Greenwich Village and Soho,No Claim
+33-11 broadway #3f in astoria,10031,40.8192001:-73.95608349999999,Inwood and Washington Heights,No Claim
+25-12 41st street #2r in astoria,11103,40.767344:-73.9113881,Northwest Queens,No Claim
+123-33 83rd avenue #203 in kew gardens ,11415,40.7115516:-73.8276624,Southwest Queens,No Claim
+3054 east tremont avenue #3r in schuylerville ,10461,40.8391592:-73.8367928,Southeast Bronx,No Claim
+336 east 61st street #8 in lenox hill,10065,40.7609888:-73.9618588,Upper East Side,No Claim
+458 east 144th street #unit2 in north new york,10454,40.8119759:-73.9183923,Hunts Point and Mott Haven,No Claim
+104-21 68 drive #a13 in forest hills,11375,40.7246508:-73.8486332,West Central Queens,No Claim
+30 west 181st street #d9 in university heights ,10453,40.8561464:-73.906836,Central Bronx,No Claim
+599 w 141st st in upper west side,10031,40.8238534:-73.9522032,Inwood and Washington Heights,No Claim
+201 west 105th street #3 in manhattan valley,10025,40.800023:-73.9664505,Upper West Side,No Claim
+37-53 62nd street #5a in woodside,11377,40.7476906:-73.9010076,West Queens,Claim
+865 saint john's place #2a in crown heights,11216,40.6694022:-73.9422324,Central Brooklyn,No Claim
+986 rogers avenue #4a in flatbush,11226,40.6461395:-73.9521451,Flatbush,No Claim
+2565 grandconcourse #4e in fordham,10468,40.8642859:-73.8963333,Bronx Park and Fordham,No Claim
+206 west 21st street #a9 in chelsea,10011,40.7428649:-73.9972646,Chelsea and Clinton,No Claim
+73 lexington avenue #d6 in kips bay,10010,40.74111569999999:-73.9833057,Gramercy Park and Murray Hill,Claim
+124-07 hillside avenue #1 in kew gardens ,11418,40.7027773:-73.8268468,Southwest Queens,Claim
+45 tennis court #6a in prospect park south,11226,40.6487021:-73.9614434,Flatbush,No Claim
+1765 townsend avenue #10i in mt. hope,10453,40.6241562:-81.7842373,Central Bronx,No Claim
+441 wilson avenue #b2 in bushwick,11221,40.6938992:-73.9133056,Bushwick and Williamsburg,No Claim
+128 marine avenue #1g in fort hamilton,11209,40.6168364:-74.0361376,Southwest Brooklyn,No Claim
+190 utica avenue #3r in weeksville,11213,40.67225699999999:-73.931112,Central Brooklyn,No Claim
+86-20 139th street #2 in briarwood ,11435,40.7073538:-73.8166657,Jamaica,No Claim
+133 ft george avenue #4g in fort george,10040,40.8574278:-73.9273252,Inwood and Washington Heights,No Claim
+350 wadsworth avenue #4b in fort george,10040,40.8582679:-73.9318299,Inwood and Washington Heights,Claim
+630 rugby road #2 in ditmas park,11230,40.6341051:-73.96423829999999,Borough Park,No Claim
+267 w 146th street #19 in central harlem ,10039,40.8232948:-73.9406089,Central Harlem,No Claim
+"254 seaman avenue #a1 new york, ny 10034 in inwood",10034,None,Inwood and Washington Heights,No Claim
+"316 east 93rd street #27 new york, ny 10128 in yorkville ",10128,None,Upper East Side,No Claim
+417 west 47th street #2se in hell's kitchen,10036,40.7620958:-73.99104899999999,Chelsea and Clinton,No Claim
+5532 netherland avenue #5d in riverdale,10471,40.9032322:-73.9060179,Kingsbridge and Riverdale,No Claim
+491 amsterdam avenue #2c in upper west side,10024,40.7860109:-73.9758633,Upper West Side,No Claim
+284 west 137th street #3r in central harlem,10030,40.8173898:-73.94491719999999,Central Harlem,No Claim
+41-10 bowne street #2c in flushing,11355,40.7594795:-73.8241144,North Queens,No Claim
+64-22 ellwell crescent #2,11374,40.72143:-73.86436139999999,West Central Queens,Claim
+1410 prospect place #d1,11213,40.6729979:-73.9298076,Central Brooklyn,Claim
+67 cooper st #1a,10034,None,Inwood and Washington Heights,Claim
+232 east 64th street #14 in lenox hill,10065,40.7638977:-73.9628426,Upper East Side,Claim
+242 east 89th street #1d in yorkville,10128,40.7798791:-73.9509602,Upper East Side,Claim
+153-50 89th avenue #810 in jamaica,11432,18.109581:-77.297508,Jamaica,Claim
+135-20 82nd avenue #4j in briarwood,11435,40.7143246:-73.8225252,Jamaica,Claim
+91-32 195th street #3k in holis,11423,40.712267:-73.766081,Jamaica,Claim
+977 summit avenue #4d in highbridge,10452,40.83249199999999:-73.930891,High Bridge and Morrisania,Claim
+25-98 36th street #5tp in astoria,11103,40.7669038:-73.9160462,Northwest Queens,No Claim
+496 e 189th street #16 in belmont,10458,None,Bronx Park and Fordham,No Claim
+3204 holland avenue #1b in williamsbridge,10467,40.8718098:-73.86494929999999,Bronx Park and Fordham,No Claim
+523 east 85th street #3d in yorkville,10028,40.7748484:-73.9464301,Upper East Side,No Claim
+1581 east 24th street #a6 in homecrest,10010,40.7394962:-73.982669,Gramercy Park and Murray Hill,No Claim
+41-36 42nd street #3c in sunnyside,11104,40.7432759:-73.9196324,Northwest Queens,Claim
+144-25 33rd avenue #3bb in murray hill,11354,40.7478792:-73.9756567,North Queens,Claim
+1657 madison avenue #3b in south harlem,10029,40.7963698:-73.9472158,East Harlem,Claim
+63-11 qns boulevard #21 in woodside,11377,40.7418242:-73.90194919999999,West Queens,No Claim
+274 west 115th street #2aa in south harlem,10026,40.8033333:-73.9552923,Central Harlem,No Claim
+245 east 124th street #5b in east harlem,10035,40.8024363:-73.9344844,East Harlem,No Claim
+135-23 82nd avenue #4b in briarwood,11435,40.7109315:-73.81356099999999,Jamaica,No Claim
+144-47 38th avenue #1f in murray hills,11354,40.7634787:-73.8209801,North Queens,Claim
+160 allen street #19 in lower east side,10002,40.7209398:-73.9891458,Lower East Side,Claim
+951 amsterdam avenue #2b in manhattan valley,10025,40.8007904:-73.965105,Upper West Side,Claim
+407 west 39th street #w3c in hudson yards,10018,None,Chelsea and Clinton,Claim
+39 first avenue #7 in east village,10003,40.72430500000001:-73.98810499999999,Lower East Side,Claim
+17 vermilyea avenue #2a in inwood,10034,40.8646468:-73.9256934,Inwood and Washington Heights,No Claim
+54 elizabeth street #54-20 in chinatown,10013,40.7172105:-73.9963676,Greenwich Village and Soho,No Claim
+169 east 92nd street #e1 in carnegie hill,10128,40.783073:-73.951646,Upper East Side,Claim
+955 coney island avenue #209 in ditmas park,11230,40.6343328:-73.9669308,Borough Park,Claim
+23-20 30 drive #5dd in astoria,11102,40.7670573:-73.92734589999999,Northwest Queens,Claim
+107 vanderveer street #1h in bushwick,11207,40.682537:-73.9032975,East New York and New Lots,No Claim
+55 cumberland street #5 in fort greene,11205,40.6964535:-73.9743604,Northwest Brooklyn,No Claim
+9101 shore road #102 in fort hamilton,11209,40.62114709999999:-74.03978380000001,Southwest Brooklyn,No Claim
+31-19 32nd street #18 in astoria,11106,40.7633101:-73.9228703,Northwest Queens,No Claim
+3660 broadway #51a in hamilton heights,10031,40.8302763:-73.9472912,Inwood and Washington Heights,No Claim
+1675 east 21st street #2a in midwood,11210,40.6122026:-73.9525937,Flatbush,Claim
+53-36 van dam street #2r in sunnyside,11101,40.7351337:-73.9376052,Northwest Queens,Claim
+31-15 34th street #2b in astoria,11106,40.7626821:-73.92117089999999,Northwest Queens,Claim
+260 audobon avenue #20l in washington heights,10033,40.8470741:-73.9339055,Inwood and Washington Heights,Claim
+1369 first avenue #4c in lenox hill,10021,40.7689668:-73.9555295,Upper East Side,Claim
+316 east 62nd street #5re in lenox hill,10065,40.7619917:-73.9623692,Upper East Side,Claim
+315 west 121st street #6 in south harlem,10027,40.8082588:-73.9538688,Central Harlem,Claim
+85-15 139th street #3e in briarwood,11435,40.7085445:-73.81661760000001,Jamaica,No Claim
+64 hillside avenue #5v in fort george,10040,40.8585535:-73.9289123,Inwood and Washington Heights,No Claim
+736 riverside drive #c in hamilton heights,10031,40.8308265:-73.9493099,Inwood and Washington Heights,No Claim
+408 east 78th street #4bb in lenox hill,10075,40.7712577:-73.95267489999999,Upper East Side,No Claim
+62 west 71st street #a in lincoln square,10023,40.7763458:-73.97890509999999,Upper West Side,No Claim
+2171-2181 madison avenue #2a in central harlem,10037,40.8126318:-73.9352871,Central Harlem,No Claim
+530 east 89th street #lj in yorkville,10128,40.77713749999999:-73.9444867,Upper East Side,No Claim
+443 west 49th street #4e in hell's kitchen,10019,40.7637745:-73.99116819999999,Chelsea and Clinton,Claim
+271 west 73rd street #1a in upper west side,10023,40.780352:-73.9833106,Upper West Side,Claim
+647 second avenue #3c in murray hill,10016,40.7458019:-73.9755461,Gramercy Park and Murray Hill,Claim
+94-06 34 road #b1 in jackson heights,11372,40.7535501:-73.87328529999999,West Queens,Claim
+139-06 34 road #b2 in flushing,11354,40.7661826:-73.82879799999999,North Queens,No Claim
+154 east 110th street #1 in east harlem,10029,40.7945489:-73.94418449999999,East Harlem,No Claim
+165 east 36th street #1b in murray hill,10016,40.74728959999999:-73.9775531,Gramercy Park and Murray Hill,No Claim
+1545 rhinelander avenue #4j in morris park,10461,40.8560915:-73.8420639,Southeast Bronx,No Claim
+1045 morris avenue #2 in concourse,10456,None,High Bridge and Morrisania,No Claim
+2409 creston avenue #3 in fordham,10468,40.8607517:-73.8994688,Bronx Park and Fordham,No Claim
+168 21st street #3b in greenwood,11232,None,Sunset Park,No Claim
+343 nostrand avenue #4r in  bedford-stuyvesant,11216,40.6865689:-73.9506085,Central Brooklyn,No Claim
+37-52-37-56 80th street #4e in jackson heights,11372,40.74806:-73.8860969,West Queens,No Claim
+320 east 34th street #5b in kips bay,10016,40.7440307:-73.9750406,Gramercy Park and Murray Hill,Claim
+13 hamilton terrace #2e in hamilton heights,10031,40.8220445:-73.9467704,Inwood and Washington Heights,Claim
+45 tudor city place #1102a in turtle bay,10017,40.7493702:-73.9699861,Gramercy Park and Murray Hill,No Claim
+102 somers street #6 in ocean hill,11233,40.6789936:-73.90765619999999,Central Brooklyn,No Claim
+596 edgecombe avenue #3a inwashington heights,10032,40.8354733:-73.9377732,Inwood and Washington Heights,No Claim
+251 west 15th street #12 in chelsea,10011,40.7402624:-74.0011086,Chelsea and Clinton,Claim
+423 east 77th street #2a in lenox hill,10075,40.77082679999999:-73.952629,Upper East Side,Claim
+486 lefferts avenue #2e in wingate,11225,34.9843176:-80.4492319,Flatbush,Claim
+75-62 113rd street #2c in forest hills,11375,40.7178785:-73.8346716,West Central Queens,Claim
+86-31 57th avenue #2 in elmhurst,11373,40.7331926:-73.8756969,West Queens,Claim
+80-15 grenfell street #c in kew gardens,11415,40.712051:-73.8344867,Southwest Queens,Claim
+534 west 148th street #1f in hamilton heights,10031,40.8276094:-73.947704,Inwood and Washington Heights,Claim
+25-36 38th street #4f in astoria,11103,40.7674685:-73.9134545,Northwest Queens,No Claim
+30-69 48th street #1r in astoria,11103,40.7643574:-73.92346189999999,Northwest Queens,No Claim
+436 east 9th street #3d in east village,10009,40.72736030000001:-73.9832682,Lower East Side,No Claim
+329 east 75th street #1d in lenox hill,10021,40.7703104:-73.95538619999999,Upper East Side,Claim
+329 east 132nd street #5f in mott haven,10454,40.8059594:-73.9270267,Hunts Point and Mott Haven,No Claim
+41-15 51st street #a42 in sunnyside,11377,40.7454988:-73.91333709999999,West Queens,No Claim
+32-48 30th street #d3 in astoria,11106,40.7612508:-73.9273711,Northwest Queens,No Claim
+90-33 83rd avenue #1r in glendale,11385,33.5667465:-112.2376473,West Central Queens,No Claim
+31-19 34th street #3b in astoria,11106,40.7625408:-73.9212628,Northwest Queens,No Claim
+246 bradhurst avenue #47 in central harlem,10039,40.82915879999999:-73.9385862,Central Harlem,No Claim
+333 ovington avenue #a23 in bay ridge,11209,40.6347225:-74.02529129999999,Southwest Brooklyn,No Claim
+48-53 44th street #5h in sunnyside,11377,40.7379701:-73.9214255,West Queens,No Claim
+89-19 32nd avenue #5bb in jackson heights,11369,40.7585724:-73.8785408,West Queens,Claim
+1055 second avenue #4b in sutton place,10022,40.7576281:-73.961698,Gramercy Park and Murray Hill,Claim
+373 42nd street #2 in sunset park,11232,40.6512311:-74.00816999999999,Sunset Park,No Claim
+143-08 roosevelt avenue #9 in flushing,11354,40.7608867:-73.8240156,North Queens,No Claim
+1473 first avenue #1c in lenox hill,10075,40.7709456:-73.9540066,Upper East Side,No Claim
+150 west 140th street #1l in central harlem,10030,40.8180499:-73.94087200000001,Central Harlem,No Claim
+590 west 204th street #a34 in inwood,10034,40.8647671:-73.9220496,Inwood and Washington Heights,No Claim
+75 fort washington avenue #gg in washington heights,10032,40.8377099:-73.944321,Inwood and Washington Heights,No Claim
+23-31 29th street #4b in ditmars-steinway,11105,40.7797125:-73.90631619999999,Northwest Queens,Claim
+424 east 116th street #15 in east harlem,10029,40.7954403:-73.9345417,East Harlem,Claim
+1366 york avenue #5d in lenox hill,10021,40.76724100000001:-73.9530472,Upper East Side,Claim
+1737 lexington avenue #9 in east harlem,10029,40.7935974:-73.945027,East Harlem,Claim
+40 shore boulevard #1e in brighton beach,11235,40.5822752:-73.9545184,Southern Brooklyn,Claim
+66-10 grand avenue #1b in maspeth,11378,40.7241331:-73.8981637,West Queens,No Claim
+600 west 141st street #36 in hamilton heights,10031,40.8239584:-73.95283049999999,Inwood and Washington Heights,No Claim
+513 east 81st street #1fw in yorksville,10028,40.7725214:-73.948542,Upper East Side,No Claim
+55-12 111st street #1b in corona,11368,33.8752935:-117.5664384,West Queens,No Claim
+495 west end avenue #2j in upper west side,10024,40.7875444:-73.97919209999999,Upper West Side,No Claim
+34-29 43rd street #1ss in astoria,11101,40.75470079999999:-73.91893329999999,Northwest Queens,Claim
+4877 broadway #4f in inwood,10034,40.8677145:-73.9212019,Inwood and Washington Heights,Claim
+110 mulberry street #4 in little italy ,10013,40.7174866:-73.9982453,Greenwich Village and Soho,Claim
+328 w 44th street #45 in hell's kitchen,10036,40.7588772:-73.99023009999999,Chelsea and Clinton,Claim
+240 east 78th street #b in lenox hill,10075,40.7728743:-73.9567166,Upper East Side,Claim
+31-48 34th street #1ff in astoria,11106,40.7621076:-73.9222158,Northwest Queens,No Claim
+25-95 45th street #7 in astoria,11103,40.7643574:-73.92346189999999,Northwest Queens,No Claim
+85 seaman avenue #4b in inwood,10034,40.8680058:-73.9247992,Inwood and Washington Heights,No Claim
+615 west 183rd street #3l in fort george,10033,40.8510078:-73.9333346,Inwood and Washington Heights,No Claim
+165 sherman avenue #5p in inwood,10034,40.8646009:-73.92256789999999,Inwood and Washington Heights,No Claim
+83 park terrace west #b3 in inwood,10034,40.87180439999999:-73.9169091,Inwood and Washington Heights,No Claim
+175 east 90th street #c2 in carnegie hill,10128,40.781655:-73.9524842,Upper East Side,No Claim
+130 seaman avenue #4a in inwood,10034,40.8689818:-73.9232718,Inwood and Washington Heights,Claim
+1961 madison avenue #d/1 in central harlem,10035,40.8061437:-73.9400923,East Harlem,Claim
+34 beekman place #3c in beekman,10022,40.753884:-73.9645594,Gramercy Park and Murray Hill,Claim
+2 seaman avenue #1l in inwood,10034,40.8666497:-73.9279751,Inwood and Washington Heights,Claim
+412 east 64th street #3cc in lenox hill,10065,40.7622367:-73.9589659,Upper East Side,Claim
+149 west 119th street #3r in south harlem,10026,40.8049456:-73.9501607,Central Harlem,No Claim
+629 west 138th street #b2 in hudson heights,10031,40.82279459999999:-73.95497089999999,Inwood and Washington Heights,No Claim
+854 west 181st street #1h in hudson heights,10033,40.8511379:-73.9399545,Inwood and Washington Heights,No Claim
+724 amsterdam avenue #4c in upper west side,10025,40.793721:-73.97095039999999,Upper West Side,No Claim
+214 west 102nd street #3f in manhattan valley,10025,40.79808:-73.9685168,Upper West Side,No Claim
+111-20 76 road #6 in forest hills,11375,40.7161026:-73.8358468,West Central Queens,Claim
+2600 netherland avenue #614 in spuyten duyvil,10463,40.87872249999999:-73.9144883,Kingsbridge and Riverdale,Claim
+68-64 yellowston boulevard #a12 in forest hills,11375,40.72478400000001:-73.847482,West Central Queens,Claim
+315 west 105th street #4r in upper west side,10025,40.8014907:-73.969791,Upper West Side,Claim
+1724 eighth avenue #4 in park slope,11215,40.6594099:-73.98495419999999,Northwest Brooklyn,Claim
+341 east 19th street #52 in ditmas park,11226,40.64183970000001:-73.9602598,Flatbush,Claim
+226 east 74th street #1b in lenox hill,10021,40.77043099999999:-73.9586351,Upper East Side,Claim
+5 seaman avenue #5g in inwood,10034,40.8664479:-73.9275098,Inwood and Washington Heights,Claim
+4580 broadway #1 in fort george,10040,40.860081:-73.93055799999999,Inwood and Washington Heights,Claim
+2274 broadway #4b in upper west side,10024,40.7870106:-73.9753676,Upper West Side,Claim
+407 west 39th street #w2b in hudson yards,10018,None,Chelsea and Clinton,Claim
+2018 fifth avenue #c4 in south harlem,10035,40.80636200000001:-73.942678,East Harlem,Claim
+346 east 63rd st #4a in lenox hill,10065,40.7621049:-73.96048119999999,Upper East Side,Claim
+1672 third avenue #5w in carnegie hill,10128,40.7837836:-73.9507003,Upper East Side,No Claim
+1670 york avenue #3b in yorkville,10128,40.776981:-73.945998,Upper East Side,No Claim
+165 seaman avenue #m5 in inwood,10034,40.8690957:-73.9213177,Inwood and Washington Heights,Claim
+5 seaman avenue #2f in inwood,10034,40.8664479:-73.9275098,Inwood and Washington Heights,Claim
+201 east 104th street #4a in east harlem,10029,40.7902181:-73.9452357,East Harlem,Claim
+304 east 90th street #5c in yorkville,10128,40.7800135:-73.9494145,Upper East Side,Claim
+17 ludlow street #7 in chinatown,10002,40.7152825:-73.9910148,Lower East Side,Claim
+467 west 164th street #3c in washington heights,10032,40.8372821:-73.93816350000002,Inwood and Washington Heights,Claim
+59 arlo road #1b in staten island,10301,40.619592:-74.0953779,Stapleton and St. George,Claim
+338 east 15th street #1a in gramercy park,10003,40.7321976:-73.98307179999999,Lower East Side,Claim
+411 e 118th street #36 in east harlem,10035,40.7971856:-73.93364,East Harlem,No Claim
+307 east 93rd street #2wr in yorkville,10128,40.78217619999999:-73.9478073,Upper East Side,No Claim
+6819 third avenue #3 in bay ridge,11220,40.6359183:-74.0258075,Sunset Park,No Claim
+119 elizabeth street #5east in little italy,10013,40.7192592:-73.99560079999999,Greenwich Village and Soho,No Claim
+104 riverside drive #2 in upper west side,10024,40.7873081:-73.98095049999999,Upper West Side,Claim
+3300 netherland avenue #5f in riverdale,10463,40.8854681:-73.91076799999999,Kingsbridge and Riverdale,Claim
+32-86 35th street #3c1 in astoria,11106,40.7643574:-73.92346189999999,Northwest Queens,Claim
+454 ft. washington avenue #47b in hudson heights,10033,40.8505521:-73.9381405,Inwood and Washington Heights,Claim
+308 east 90th street #2a in yorkville ,10128,40.77998729999999:-73.9492308,Upper East Side,Claim
+936 west end avenue #e1 in upper west side,10025,40.8013042:-73.96833029999999,Upper West Side,Claim
+36-16 astoria boulevard south #5c in astoria,11103,40.7690585:-73.9133856,Northwest Queens,Claim
+43-07 ditmars boulevard #r1 in ditmars-steinway,11105,40.7712747:-73.9034547,Northwest Queens,Claim
+11-05 30 rd #5i in astoria,11102,40.7712169:-73.93382369999999,Northwest Queens,Claim
+68-12 yellowstone blvd #6u in forest hills,11375,40.7258179:-73.8484592,West Central Queens,Claim
+21-16 24th st. #3 in astoria,11105,40.7643574:-73.92346189999999,Northwest Queens,Claim
+75-03 astoria blvd n #1 in astoria,11370,40.7669155:-73.89383219999999,West Queens,Claim
+14-55 broadway #3b,10006,40.7068263:-74.01303039999999,Lower Manhattan,Claim
+31-16 45th ave #1b,11103,14.5591063:121.0221018,Northwest Queens,No Claim
+75-11 astoria blvd north #1,11370,40.76697739999999:-73.89349899999999,West Queens,Claim
+"461 winthrop street #5c brooklyn, ny 11203",11203,None,Flatbush,Claim
+"43-07 ditmars boulevard #1b astoria, ny 11105",11105,None,Northwest Queens,Claim
+"88-36 elmhurst avenue #1b elmhurst, ny 11373",11373,None,West Queens,Claim
+31-14 35th st #3b astoria ny 11106,11106,None,Northwest Queens,Claim
+46-09 30th avenue #1,11103,40.761662:-73.90968869999999,Northwest Queens,Claim
+"25-50 31st street #2
+astoria, ny 11102",11102,None,Northwest Queens,Claim
+"4600 9th ave #5006 brooklyn, ny 11220",11220,None,Sunset Park,Claim
+515 west 168th street #3e in washington heights,10032,40.8404433:-73.93764709999999,Inwood and Washington Heights,Claim
+408 west 130th street #16k in west harlem ,10027,40.8143946:-73.9517414,Central Harlem,Claim
+30 west 141st street in central harlem,10037,40.8168841:-73.9363743,Central Harlem,Claim
+552 west 161st street #6 in washington heights,10032,40.8358483:-73.94185689999999,Inwood and Washington Heights,No Claim
+221 wadsworth avenue #5a in fort george,10033,40.8518368:-73.93333059999999,Inwood and Washington Heights,Claim
+"32-02 34th ave #6c astoria, ny 11106",11106,None,Northwest Queens,Claim
+"28-02 crescent street #9 astoria, ny 11102",11102,None,Northwest Queens,No Claim
+"156 allen st. #3 new york, ny 10002",10002,None,Lower East Side,Claim
+"93 clinton street #13 new york, ny 10002",10002,None,Lower East Side,Claim
+"612 w 137th st #1 new york, ny 10031",10031,None,Inwood and Washington Heights,Claim
+"137-35 elder avenue #506 flushing, ny 11354",11354,None,North Queens,Claim
+"348 e 92nd st new york, ny 10128 ",10128,None,Upper East Side,Claim
+"23-90 32nd street astoria, ny 11105",11105,None,Northwest Queens,Claim
+"35-19 147th st d7
+flushing, ny 11354
+",11354,None,North Queens,Claim
+2103 38th st #3 in astoria,11105,40.7750095:-73.9046206,Northwest Queens,Claim
+325 w 30th st apt b3 in hudson yards,10001,40.7503214:-73.9964256,Chelsea and Clinton,Claim
+69-39 yellowston boulevard #112 in forest hills,11375,40.7234953:-73.8460865,West Central Queens,Claim
+137 w 137th #d33 in central harlem,10030,40.8163376:-73.9415618,Central Harlem,Claim
+216-10 77th avenue #4c in oakland gardens,11364,40.736935:-73.75588499999999,Northeast Queens,No Claim
+97 pitt street #apt9 in lower east side,10002,40.7189593:-73.9823655,Lower East Side,No Claim
+151-10 35th avenue #2d in murray hill,11106,40.7631367:-73.9397193,Northwest Queens,No Claim
+125-05 84th avenue #4g in kew gardens,11415,40.7089918:-73.8276155,Southwest Queens,No Claim
+143-08 roosevelt avenue #7 in flushing,11354,40.7608867:-73.8240156,North Queens,No Claim
+615 west 172nd street #1 in washington heights,10032,40.8439679:-73.9385157,Inwood and Washington Heights,No Claim
+1887 amsterdam avenue #4c in hamilton heights,10032,40.8304219:-73.9433974,Inwood and Washington Heights,No Claim
+15 wadsworth avenue #a1 in washington heights,10033,40.8450973:-73.9381176,Inwood and Washington Heights,No Claim
+501 west 29th street #3fs in west chelsea,10001,40.7516618:-74.0016313,Chelsea and Clinton,No Claim
+147-15 northern boulevard #l3 in murray hill,11354,40.765752:-73.81897769999999,North Queens,Claim
+34-43 francis lewis boulevard #4g in auburndale,11358,28.0652975:-81.7886906,North Queens,Claim
+385 fort washington avenue #68 in hudson heights,10033,40.8481587:-73.9396703,Inwood and Washington Heights,Claim
+304 pleasant avenue #4n in east harlem,10035,40.7951944:-73.9327903,East Harlem,No Claim
+152-11 89th avenue #426 in jamaica ,11432,18.109581:-77.297508,Jamaica,Claim
+951 amsterdam avenue #3d in manhattan valley,10025,40.8007904:-73.965105,Upper West Side,Claim
+780 riverside drive #d10 in washington heights,10032,40.8339347:-73.9478561,Inwood and Washington Heights,Claim
+28-14 31st street #508 in astoria,11102,40.7682381:-73.9204669,Northwest Queens,No Claim
+110 bennett avenue #2b in hudson heights,10033,40.8537457:-73.93534509999999,Inwood and Washington Heights,No Claim
+1595 york avenue #4sw in yorkville,10028,40.7748675:-73.9482206,Upper East Side,No Claim
+416 east 120th street #c1 in east harlem,10035,40.7980864:-73.9327903,East Harlem,No Claim
+318 east 78th street #28 in lenox hill,10075,40.772168:-73.9547487,Upper East Side,No Claim
+338 east 53rd street #3c in turtle bay,10022,40.755916:-73.96576639999999,Gramercy Park and Murray Hill,No Claim
+111-23 76 road #a6 in forest hills ,11375,40.7162137:-73.8361718,West Central Queens,No Claim
+309 east 104th street #3b in east harlem,10029,40.7892219:-73.94257209999999,East Harlem,Claim
+545 edgecombe avenue #h5 in washington heights,10032,40.8335726:-73.93917379999999,Inwood and Washington Heights,No Claim
+75 fort washington avenue #gf in washington heights,10032,40.8377099:-73.944321,Inwood and Washington Heights,No Claim
+87-42 elmhurst avenue #k6,11373,None,West Queens,Claim
+186 orchard st #2,10002,None,Lower East Side,Claim
+"166 w 75th st, upper west side",10023,40.7803197:-73.9799267,Upper West Side,No Claim
+577 second avenue #23 in kips bay,10016,40.7434411:-73.9772703,Gramercy Park and Murray Hill,No Claim
+35-48 35th street #2g in astoria,11106,40.7643574:-73.92346189999999,Northwest Queens,No Claim
+1515 lexington avenue #3c in carnegie hill,10029,40.7869124:-73.949879,East Harlem,No Claim
+47 east 30th street #3a in  nomad,10016,40.7449936:-73.9834469,Gramercy Park and Murray Hill,No Claim
+562 west 174th street #44 in washington heights,10033,40.8444191:-73.9366021,Inwood and Washington Heights,No Claim
+61-17 68th avenue #4e in ridgewood,11385,40.7056581:-73.8956334,West Central Queens,No Claim
+144-30 35th avenue #a45,11354,None,North Queens,Claim
+19 south oxford street #1a in greene,11217,None,Northwest Brooklyn,No Claim
+396 cornelia street #1l in bushwick,11237,40.6970287:-73.90843699999999,Bushwick and Williamsburg,No Claim
+230 east 89th street #9 in yorkville,10128,40.7800987:-73.95141939999999,Upper East Side,No Claim
+436 west 49th street #3fe in hell’s kitchen,10019,40.7633097:-73.9912056,Chelsea and Clinton,No Claim
+320 west 75th street #5a in  upper west side,10023,40.7822046:-73.98457549999999,Upper West Side,No Claim
+7 east 32nd street #4e in midtown south,10016,40.7469692:-73.9847079,Gramercy Park and Murray Hill,No Claim
+1452 second avenue #3 in lenox hill,10021,40.7711244:-73.9563548,Upper East Side,No Claim
+401 east 83rd street #4a in yorkville,10028,40.7748833:-73.9503945,Upper East Side,No Claim
+350 central park west #1r in upper west side,10025,40.7906666:-73.9658766,Upper West Side,No Claim
+35 central park north #4c in south harlem,10026,40.7979604:-73.9509988,Central Harlem,No Claim
+802 ninth avenue #2d in  hell's kitchen,10019,40.76543789999999:-73.9872039,Chelsea and Clinton,No Claim
+75 bleecker street #3b in  greenwich village,10012,40.7267827:-73.9960789,Greenwich Village and Soho,No Claim
+23-05 29th street #4d in ditmars-steinway,11105,40.7747474:-73.9139417,Northwest Queens,Claim
+30-95 30th street #1b in astoria,11102,40.7649023:-73.9239422,Northwest Queens,Claim
+38 orchard street #3f in chinatown,10002,40.7158943:-73.9912444,Lower East Side,Claim
+51-35 reeder street #326 in elmhurst,11373,40.7373303:-73.8781333,West Queens,Claim
+440 audubon avenue #40 in fort george,10040,40.8529184:-73.9296261,Inwood and Washington Heights,Claim
+173 ludlow street #4a in  lower east side,10002,40.7218512:-73.98770900000001,Lower East Side,Claim
+219 mulberry street #10 in nolita,10012,40.7223288:-73.9962484,Greenwich Village and Soho,No Claim
+559 west 190th street #e5 in fort george,10040,40.8547314:-73.9285262,Inwood and Washington Heights,No Claim
+1269 first avenue #5e in lenox hill,10065,40.7655954:-73.95796059999999,Upper East Side,Claim
+90 convent avenue #42a in west harlem,10027,40.8165817:-73.95308229999999,Central Harlem,No Claim
+171 east 101st street #13 in east harlem,10029,40.7889839:-73.94794499999999,East Harlem,No Claim
+348 west 145th street #2r in hamilton heights,10039,40.82365679999999:-73.9443057,Central Harlem,No Claim
+25-55 32nd street #3 in astoria,11102,40.7685135:-73.9185071,Northwest Queens,No Claim
+10 west 76th street #4b in  upper west side,10023,40.7789201:-73.9749573,Upper West Side,No Claim
+178 east 7th street #3c in east village,10009,40.7250765:-73.9816951,Lower East Side,No Claim
+21 essex street #3 in chinatown,10002,40.7153806:-73.9900742,Lower East Side,No Claim
+110 west 129th street #b1 in central harlem,10027,40.8104223:-73.94432119999999,Central Harlem,No Claim
+471 carroll street #1l in gowanus,11215,40.6772433:-73.98642339999999,Northwest Brooklyn,No Claim
+101 west 128th street #5c in central harlem,10027,40.809935:-73.9443947,Central Harlem,Claim
+234 east seventh street #3rw in east village,10009,40.7237717:-73.9785472,Lower East Side,No Claim
+231 east 29th street #15 in kips bay,10016,40.7421488:-73.97889909999999,Gramercy Park and Murray Hill,Claim
+52 henry street #4rs in two bridges,10002,40.7126981:-73.9953302,Lower East Side,No Claim
+325 east 54th street #2b in sutton place,10022,40.7571117:-73.96549279999999,Gramercy Park and Murray Hill,No Claim
+1661 york avenue #5k in yorkville,10128,40.7769238:-73.9467848,Upper East Side,No Claim
+610 west 150th street #3g in  hamilton heights,10031,40.8297834:-73.9492452,Inwood and Washington Heights,Claim
+209 madison street #2b in two bridges,10002,40.7128543:-73.98941730000001,Lower East Side,Claim
+106 eldridge street #14  in lower east side,10002,40.7179649:-73.9918479,Lower East Side,Claim
+4580 broadway #3t in fort george,10040,40.860081:-73.93055799999999,Inwood and Washington Heights,Claim
+95 elizabeth street #3cc in little italy,10013,40.7184482:-73.9959756,Greenwich Village and Soho,No Claim
+532 ninth avenue #1b in  hudson yards,10018,None,Chelsea and Clinton,Claim
+416 west 25th street #1w in west chelsea,10001,40.7479947:-74.00145429999999,Chelsea and Clinton,No Claim
+117 south fourth street #3r in williamsburg,11206,40.712363:-73.9633059,Bushwick and Williamsburg,No Claim
+526 east 6th street #12 in  east village,10009,40.7247707:-73.9827045,Lower East Side,Claim
+9949 shore road #107 in  fort hamilton,11209,40.6128755:-74.03621849999999,Southwest Brooklyn,No Claim
+149 east 72nd street #4r in lenox hill,10021,40.770455:-73.961636,Upper East Side,No Claim
+413 east 9th street #g3 in east village ,10009,40.7280199:-73.9840404,Lower East Side,Claim
+43-32 41st street #a2 in sunnyside,11104,40.7445441:-73.9233816,Northwest Queens,No Claim
+40-35 hampton street #3h in elmhurst,11373,40.74672:-73.881485,West Queens,No Claim
+28-42 29th street #3f in astoria,11102,40.7683653:-73.9234214,Northwest Queens,No Claim
+11-05 30 road #4h in astoria,11102,40.7712169:-73.93382369999999,Northwest Queens,No Claim
+40-35 hampton street #3h in elmhurst,11373,40.74672:-73.881485,West Queens,No Claim
+449 west 56th street #2b in hell's kitchen,10019,40.768347:-73.9883977,Chelsea and Clinton,Claim
+317 east 75th street #3a in lenox hill ,10021,40.7704513:-73.9558923,Upper East Side,Claim
+426 east 73rd street #5rw in lenox hill,10021,40.7677359:-73.9541977,Upper East Side,Claim
+41-29 46th street #3h in sunnyside,11104,40.745534:-73.91784109999999,Northwest Queens,No Claim
+224 west 82nd street #4 in upper west side,10024,40.785314:-73.9780229,Upper West Side,Claim
+745 park avenue #1l in bedford-stuyvesant,11206,40.6981976:-73.94587899999999,Bushwick and Williamsburg,No Claim
+261 jefferson avenue #1 in bedford-stuyvesant,11216,40.68380399999999:-73.94731999999999,Central Brooklyn,No Claim
+392 kosciusko street #3a in stuyvesant heights,11221,40.6919232:-73.93852559999999,Bushwick and Williamsburg,Claim
+219 east 85th street #4re in yorkville,10028,40.77798440000001:-73.9533178,Upper East Side,Claim
+785 ocean parkway #e6 in midwood,11230,40.6293265:-73.9708088,Borough Park,Claim
+43-38 42nd street #3f in sunnyside,11104,40.7432759:-73.9196324,Northwest Queens,Claim
+1164 pacific street #1r in crown heights,11216,40.6777159:-73.95360099999999,Central Brooklyn,Claim
+973 columbus avenue #4b in manhattan valley,10025,40.7966989:-73.9684247,Upper West Side,No Claim
+343 linden street #2cc in bushwick,11237,40.6995826:-73.9136846,Bushwick and Williamsburg,Claim
+1515 lexington avenue #2c in carnegie hill,10029,40.7869124:-73.949879,East Harlem,Claim
+515 west 171st street #53 in washington heights,10032,40.8422898:-73.9363954,Inwood and Washington Heights,No Claim
+407 west 39th street #2c in hudson yards,10018,None,Chelsea and Clinton,No Claim
+1596 third avenue #2dd in carnegie hill,10128,40.7811959:-73.9525805,Upper East Side,Claim
+453 seventh avenue #2 in park slope,11215,40.6627354:-73.98474949999999,Northwest Brooklyn,Claim
+246 west 137th street #3f in central harlem,10030,40.8172434:-73.94474199999999,Central Harlem,No Claim
+2830 west 16th street #b4 in coney island,11224,40.578233:-73.984319,Southern Brooklyn,No Claim
+440 third avenue #3rr in kips bay,10016,40.7435775:-73.9799606,Gramercy Park and Murray Hill,Claim
+1317 first avenue #4a in lenox hill,10021,40.7670077:-73.9569126,Upper East Side,No Claim
+111 west 68th street #3b in lincoln square,10023,40.7752797:-73.98117789999999,Upper West Side,Claim
+227 east fifth street #1fe in east village,10003,40.7273251:-73.9898209,Lower East Side,Claim
+526 west 174th street #4h in washington heights,10033,40.8438664:-73.9352909,Inwood and Washington Heights,Claim
+64-65 wetherole street #3f in rego park,11374,40.72702:-73.860288,West Central Queens,Claim
+74-12 35th avenue #303 in jackson heights,11372,40.750833:-73.891919,West Queens,Claim
+34-50 29th street #5m in astoria,11106,40.7592738:-73.9301496,Northwest Queens,Claim
+12-10 astoria park south #l3 in astoria,11102,40.7763709:-73.9277615,Northwest Queens,No Claim
+19 division street #2b in chinatown,10002,40.7139557:-73.9965292,Lower East Side,No Claim
+89-52 queens boulevard #612 in elmhurst,11373,40.7347377:-73.8735073,West Queens,No Claim
+556 west 156th street #44 in washington heights,10032,40.8328603:-73.94445499999999,Inwood and Washington Heights,No Claim
+172 east 104th street #3a in east harlem,10029,40.7904935:-73.9465733,East Harlem,No Claim
+255 west 136th street #2b in central harlem,10030,40.8169615:-73.9450634,Central Harlem,Claim
+1587 carroll street #h5 in weeksville,11213,40.6664278:-73.9338906,Central Brooklyn,Claim
+346 east 65th street #3f in lenox hill,10065,40.76343749999999:-73.9600325,Upper East Side,No Claim
+164-18 43rd avenue #1 in flushing,11377,40.744284:-73.914867,West Queens,Claim
+319 east 5th street #9 in east village,10003,40.7265626:-73.9879844,Lower East Side,Claim
+403 west 48th street #b1 in hell's kitchen ,10036,40.7626599:-73.9902299,Chelsea and Clinton,Claim
+460 throop avenue #c in  bedford-stuyvesant,11221,40.6881872:-73.9421588,Bushwick and Williamsburg,No Claim
+540 west 189th street #3c in fort george,10040,40.8535559:-73.9285886,Inwood and Washington Heights,No Claim
+332 east 66th street #3c in lenox hill,10065,40.7642789:-73.9599815,Upper East Side,Claim
+339 east 77th street #1a in lenox hill,10075,40.7715631:-73.9544567,Upper East Side,Claim
+589 first avenue #1  in kips bay,10016,40.7436426:-73.97393869999999,Gramercy Park and Murray Hill,Claim
+46-05 30th avenue #1r in astoria,11103,40.76167510000001:-73.9097805,Northwest Queens,Claim
+32-68 41st street #3b in  prospect park south,11103,40.6457741:-73.96610609999999,Northwest Queens,Claim
+33-14 34th avenue #3 in astoria,11106,40.7584804:-73.9252585,Northwest Queens,Claim
+476 gates avenue #c4 in bedford-stuyvesant,11216,40.6865164:-73.946929,Central Brooklyn,Claim
+1700 east 15th street #b2 in homecrest,11229,40.60816519999999:-73.9585067,Southern Brooklyn,Claim
+210 west 82nd street #1f in upper west side,10024,40.7852369:-73.97774580000001,Upper West Side,Claim
+244 west 103rd street #1 in upper west side,10025,40.799207:-73.969369,Upper West Side,Claim
+87-15 37th avenue #2h in  jackson heights ,11372,40.7504673:-73.8792289,West Queens,Claim
+839 halsey street #3r in stuyvesant heights,11233,40.6855479:-73.9190303,Central Brooklyn,Claim
+114 west 116th street #12 in south harlem,10026,40.8021965:-73.9507577,Central Harlem,No Claim
+946 columbus avenue #2b in manhattan valley,10025,40.799668:-73.962869,Upper West Side,No Claim
+1380 york avenue #4d in lenox hill,10021,40.767884:-73.9526589,Upper East Side,No Claim
+328 east 6th street #11ar in east village,10003,40.7267071:-73.98725329999999,Lower East Side,No Claim
+1081 tiffany street #6b in longwood,10459,28.7030519:-81.3384011,Hunts Point and Mott Haven,No Claim
+469 clinton avenue #12 in clinton hill,11238,40.6841781:-73.9667477,Central Brooklyn,Claim
+39-19 62nd street #33 in woodside,11377,40.7462406:-73.9016073,West Queens,No Claim
+93-24 qns boulevard #3c in rego park,11374,40.7311447:-73.866266,West Central Queens,No Claim
+118 west 83rd street #1b in upper west side,10024,40.7846581:-73.97448589999999,Upper West Side,No Claim
+1370 saint nicholas's avenue #16n in washington heights,10033,40.84756300000001:-73.9344666,Inwood and Washington Heights,No Claim
+141-30 pershing crescent #6 in briarwood,11435,40.7117164:-73.8166888,Jamaica,Claim
+144-45 35th avenue #1l in murray hilll,11354,40.766455:-73.8219658,North Queens,Claim
+118 west 83rd street #1b in upper west side,10024,40.7846581:-73.97448589999999,Upper West Side,Claim
+9014 third avenue #1 in fort hamilton,11209,None,Southwest Brooklyn,No Claim
+47 saint felix street #4r in fort greene,11217,40.6882731:-73.9774662,Northwest Brooklyn,Claim
+65 bergen street #5 in cobble hill,11201,40.6870216:-73.9907423,Northwest Brooklyn,Claim
+454 west 45th street #3rw in hell's kitchen,10036,40.7612307:-73.9937234,Chelsea and Clinton,Claim
+141-66 85 road #2e in briarwood,11435,40.7094356:-73.8143365,Jamaica,Claim
+545 edgecombe avenue #2h in washington heights,10032,40.8335726:-73.93917379999999,Inwood and Washington Heights,Claim
+832 quincy street #1f,11221,40.6896271:-73.9262229,Bushwick and Williamsburg,Claim
+95-05 35th avenue #a1 in jackson heights,11372,40.753412:-73.872484,West Queens,Claim
+319 east 5th street #11 in east village,10003,40.7265626:-73.9879844,Lower East Side,Claim
+542 east 11th street #4bb in east village,10009,40.7275431:-73.98010030000002,Lower East Side,Claim
+610 monroe street #2a in stuyvesant heights,11221,40.6874147:-73.932653,Bushwick and Williamsburg,Claim
+21 magaw place #5e in hudson heights,10033,40.851574:-73.93733689999999,Inwood and Washington Heights,Claim
+1594 third avenue #5c in carnegie hill,10128,40.78112650000001:-73.952629,Upper East Side,Claim
+3971 gouverneur avenue #4k in kingsbridge heights,10463,40.8835189:-73.89219489999999,Kingsbridge and Riverdale,Claim
+216 west 78th street #3d in upper west side,10024,40.7826242:-73.9797201,Upper West Side,Claim
+328 west 83rd street #6g in upper west side,10024,40.7873674:-73.9806613,Upper West Side,Claim
+324 east 84th street #1a in yorkville,10028,40.7759623:-73.9518483,Upper East Side,Claim
+348 east 62nd street #6front in lenox hill,10065,40.7616258:-73.9614057,Upper East Side,Claim
+21 essex street #5 in chinatown,10002,40.7153806:-73.9900742,Lower East Side,No Claim
+2841 heath avenue #r1 in kingsbridge heights ,10463,40.8739096:-73.9041318,Kingsbridge and Riverdale,Claim
+96-03 metropolitan near selfridge st in forest hills,11375,40.7153558:-73.856944,West Central Queens,Claim
+276 seventh avenue #d2 in park slope,11215,40.6710672:-73.98142279999999,Northwest Brooklyn,Claim
+56-11 94th street #3j in elmhurst,11373,40.736503:-73.86740499999999,West Queens,Claim
+142-29 37th avenue #4a in flushing,11354,40.762928:-73.8265373,North Queens,Claim
+48-12 46th street #33 in sunnyside  ,11377,40.7388967:-73.9197858,West Queens,Claim
+321 eldert street #4l in bushwick,11237,40.6933444:-73.9069098,Bushwick and Williamsburg,Claim
+354 west 38th street #4e in hudson yards,10018,40.7556537:-73.9941533,Chelsea and Clinton,Claim
+1511 brightwater avenue #2f in brighton beach,11235,40.5758056:-73.9550867,Southern Brooklyn,Claim
+489 columbus avenue #5cc in upper west side,10024,40.7847644:-73.9730625,Upper West Side,Claim
+321 east 92nd street #4e in yorkville,10128,40.7813611:-73.947704,Upper East Side,Claim
+545 edgecombe avenue #3g in washington heights,10032,40.8335726:-73.93917379999999,Inwood and Washington Heights,Claim
+500 kappock st #5j,10463,40.8770979:-73.9184841,Kingsbridge and Riverdale,No Claim
+100 cooper st #e6,10034,None,Inwood and Washington Heights,No Claim
+1625 park place #9a,11233,None,Central Brooklyn,No Claim
+2961 marion avenue #1e,10458,None,Bronx Park and Fordham,No Claim
+116 seaman ave #3c,10458,40.86907470000001:-73.884311,Bronx Park and Fordham,No Claim
+33-14 31st avenue #3r,10034,40.86883760000001:-73.9238807,Inwood and Washington Heights,No Claim
+156 orchard st. #5d,11106,40.7632281:-73.9214963,Northwest Queens,No Claim
+76 forsythe st #2,10002,None,Lower East Side,No Claim
+118 post ave #1h,10034,34.2662167:-118.3169102,Inwood and Washington Heights,No Claim
+118 post avenue #1h,10034,40.8646681:-73.9202277,Inwood and Washington Heights,No Claim
+141 essex st. #1b,10002,40.7528509:-73.5878055,Lower East Side,No Claim
+156 orchard st #5d,10002,14.5591063:121.0221018,Lower East Side,No Claim
+4791 broadway #4,10034,None,Inwood and Washington Heights,No Claim
+125 madison st #1,10002,None,Lower East Side,No Claim
